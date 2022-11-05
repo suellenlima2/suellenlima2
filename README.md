@@ -13,7 +13,9 @@
   <img align="center" alt="Suellen-HTML" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   
   <img align="center" alt="Suellen-PHP" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-           
+    
+  <img align="center" alt="Suellen-MYSQL" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+          
 </div>
 
   ##
